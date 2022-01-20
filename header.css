@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+}
+.nav{
+    width: 25vw;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: rgb(255, 189, 134);
+}
+
+#submit-forc {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
